@@ -301,7 +301,6 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-**Cisco Development Team**  
 Date: February 5, 2026
 
 ## 🙏 Acknowledgments
